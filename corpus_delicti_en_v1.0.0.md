@@ -45,3 +45,10 @@ The final **Lead Investigator** runs an epilogue scene that takes place some und
 The **Lead Investigator** rolls all the dice in the **Epilogue Pool**. Add even results to the **Even Suspect**’s paper and odd results to the **Odd Suspect**’s. After this twist of fate, compare the total number of dice assigned to each suspect.
 
 If the declared culprit has the most dice, everyone can rest easy — justice was served. If not, an innocent person was wrongly convicted.
+
+
+<p text-align: right>
+  <a href="/">
+    back home
+  </a>
+</p>
