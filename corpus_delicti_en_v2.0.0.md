@@ -74,3 +74,10 @@ The **Lead Investigator** collects and reads the votes aloud. If 2/3 of the juro
 The final **Lead Investigator** will facilitate an epilogue scene set at some point after the crime is resolved. It could be a deathbed confession, a newspaper letter, or a TV interview. In it, the real culprit describes the crime and their motives. Whether they're in prison or elsewhere depends on a dice roll.
 
 The **Lead Investigator** rolls the **Incriminating Pool** of each suspect and sums the results. The higher total reveals the real killer. If there's a tie, this will remain one of those cases where the truth is never known.
+
+
+<p style="text-align: right;">
+  <a href="/">
+    back home
+  </a>
+</p>

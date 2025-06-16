@@ -72,3 +72,9 @@ El **Líder de la Investigación** debe recolectar todos los votos y leerlos en 
 El último **Líder de la Investigación** facilitará una escena de epílogo que sucede un tiempo indeterminado tras la resolución del crimen. A lo mejor ocurre en un lecho de muerte, en una carta a un periódico o en una entrevista de televisión. En ella, el verdadero culpable describe el crimen y las razones por las que lo cometió. Si lo hace desde la cárcel o desde cualquier otro lugar eso depende del resultado de una tirada de dados.
 
 El **Líder de la Investigación** lanza los dados de la **Reserva Incriminatoria** de cada sospechoso, sumando el resultado total. Compara los resultados de la tirada de ambos, aquel que haya obtenido la tirada más alta fue el verdadero asesino. En caso de empate este será uno de esos casos de los que nunca sabremos la verdad. 
+
+<p style="text-align: right;">
+  <a href="/">
+    Volver a la Página Principal
+  </a>
+</p>
