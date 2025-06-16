@@ -47,7 +47,7 @@ The **Lead Investigator** rolls all the dice in the **Epilogue Pool**. Add even 
 If the declared culprit has the most dice, everyone can rest easy — justice was served. If not, an innocent person was wrongly convicted.
 
 
-<p text-align: right>
+<p style="text-align: right;">
   <a href="/">
     back home
   </a>

@@ -43,7 +43,7 @@ El último **Líder de la Investigación** facilitará una escena de epílogo qu
 
 El **Líder de la Investigación** lanza los dados en la **Reserva del Epílogo**. Añade los resultados pares al trozo de papel que representa al **Sospechoso Par**, y los impares al trozo de papel que representa al **Sospechoso Impar**. Tras este capricho del destino vuelve a comparar el número de dados asignados a cada sospechoso. Si aquel que fue declarado culpable es el que más tiene pueden respirar todos tranquilos por que cogieron al culpable, de lo contrario estaremos ante un nuevo caso de un inocente acusado de un crimen que no cometió. 
 
-<p text-align: right>
+<p style="text-align: right;">
   <a href="/">
     Volver a la Página Principal
   </a>
