@@ -7,8 +7,9 @@ Reparte los puntos de investigación, inventa pistas, cambia el rol de director 
 # Versiones del juego
 * [Corpus Delicti v2.0.0 Español](/corpus_delicti_es_v2.0.0.md) 
 * [Corpus Delicti v2.0.0 English](/corpus_delicti_en_v2.0.0.md)
-<small>* [Corpus Delicti v1.0.0 Español](/corpus_delicti_es_v1.0.0.md)</small> 
-<small>* [Corpus Delicti v1.0.0 English](/corpus_delicti_en_v1.0.0.md)</small>
+* <small>[Corpus Delicti v1.0.0 Español](/corpus_delicti_es_v1.0.0.md)</small>
+* <small>[Corpus Delicti v1.0.0 English](/corpus_delicti_en_v1.0.0.md)</small>
+
 
 # Contacto
 Puedes encontrarme en múltiples sitios con el nickname **@darofar**. 
