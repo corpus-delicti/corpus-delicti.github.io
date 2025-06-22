@@ -42,7 +42,6 @@ El **Líder de la Investigación** debe cerrar la escena integrando las pistas e
 Esta narración pone fin a la **Escena de Investigación** actual, pasa el liderazgo en la dirección de las agujas del reloj y empieza una nueva escena. Si el nuevo **Líder de la Investigación** no puede apostar dados en la escena actual, porque su **Reserva** está vacía, en lugar de una **Escena de Investigación** debe facilitar **La Resolución del Crimen**, pasa al siguiente apartado.
 
 ## RESOLVIENDO EL CRIMEN
-En esta escena el **Líder de la Investigación** facilitará el debate entre los jugadores con el fin de establecer la **Hipótesis de los Hechos**: el hilo argumental que se convertirá en la historia oficial y será utilizado por el órgano de justicia del mundo en el que se desarrolla la partida para juzgar al culpable. 
 
 Todos los jugadores expondrán sus conjeturas sobre cómo encajar las pistas encontradas para elaborar una teoría sobre lo ocurrido. A diferencia de otras escenas, en esta debe existir un consenso entre todos los jugadores sobre la **Hipótesis de los Hechos**. El líder de la investigación tendrá voto de calidad sólo en el caso en el que exista una división total entre los participantes y sea necesario someter alguna de las conjeturas a votación. 
 
