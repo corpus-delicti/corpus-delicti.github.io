@@ -6,10 +6,10 @@ Reparte los puntos de investigación, inventa pistas, cambia el rol de director 
 
 ## Versiones del juego
 <ul>
-  <li><a href="/corpus_delicti_es_v2.0.0.html">Corpus Delicti v2.0.0 Español</a></li>
-  <li><a href="/corpus_delicti_en_v2.0.0.html">Corpus Delicti v2.0.0 English</a></li>
-  <li style="font-size: x-small;"><a href="/corpus_delicti_es_v1.0.0.html">Corpus Delicti v1.0.0 Español</a></li>
-  <li style="font-size: x-small;"><a href="/corpus_delicti_en_v1.0.0.html">Corpus Delicti v1.0.0 English</a></li>
+  <li><a href="/corpus_delicti_es_v2.html">Corpus Delicti v2 Español</a></li>
+  <li><a href="/corpus_delicti_en_v2.html">Corpus Delicti v2 English</a></li>
+  <li style="font-size: x-small;"><a href="/corpus_delicti_es_v1.html">Corpus Delicti v1 Español</a></li>
+  <li style="font-size: x-small;"><a href="/corpus_delicti_en_v1.html">Corpus Delicti v1 English</a></li>
 </ul>
 
 ## Contacto
